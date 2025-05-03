@@ -1,6 +1,6 @@
-# Clasificación de Cáncer de Próstata mediante Aprendizaje Profundo
+# Clasificación de Cáncer de Próstata mediante Deep Learning
 
-Repositorio para el entrenamiento y evaluación de modelos de clasificación de grados de cáncer de próstata (ISUP) utilizando parches de imágenes histopatológicas.
+Repositorio para el entrenamiento y evaluación de modelos de clasificación de grados de cáncer de próstata (ISUP) utilizando parches de imágenes histopatológicas del dataset PANDA(Prostate cANcer graDe Assessment).
 
 ---
 
