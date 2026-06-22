@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# PANDA data and generated artifacts
+train_images/
+train_label_masks/
+output_patches/
+patches/
+*.tiff
+*.tif
+*.h5
+*.keras
+*.ckpt
+*.weights
+*.weights.h5
+train_log.csv
+epoch_log.csv
+processed_images.txt
+failed_images.txt
